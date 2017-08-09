@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Cinzel', serif;
+}
+
+button {
+  cursor: pointer;
+  padding: 8px 10px;
+  background-color: black;
+  margin-left: 200px;
+  font-size: 20px;
+  color: #57E510;
+  border-radius: 12px;
+}
+
+form {
+  text-align: center;
+}
+
+.question-image {
+  max-width: 250px;
+  max-height: 250px;
+  float: left;
+  margin-top: -250px;
+  border-radius: 12px;
+  border: .5px solid black;
+ }
+
+.feedback-image {
+  max-width: 200px;
+  max-height: 200px;
+  margin-left: 250px;
+  float: left;
+  border-radius: 12px;
+  border: .5px solid black;
+}
+.question {
+  font-size: 24px;
+  color: #57E510;
+}
+
+.answers {
+  margin-right: 160px;
+  color: #57E510;
+}
+
+.start {
+  margin-top: 100px;
+}
+.submit {
+  float:right;
+}
+.next {
+  margin-left: 200px;
+  margin-top: 150px;
+}
+
+.container {
+  margin-bottom: 20px;
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+  
+
+body {
+  background-image: url("https://wallpaperstock.net/erde-wallpapers_13408_1440x900.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+
+h2, h3 {
+  text-align: center;
+  color: #57E510;
+  margin-left: 200px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
